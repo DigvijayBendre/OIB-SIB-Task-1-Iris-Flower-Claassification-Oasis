@@ -6,7 +6,7 @@ Data Set Link :- Oasis Data Science <img src="https://www.canva.com/design/DAFSZ
 
 <img src="https://miro.medium.com/max/875/1*7bnLKsChXq94QjtAiRn40w.png">
 
-This Project is thorugh Oasis Data Science Internship Programme application of machine learning with python programming.
+This Project is through Oasis Data Science Internship Programme application of machine learning with python programming.
 It focuses on IRIS flower classification using Machine Learning with scikit tools. 
 
 Here some of algorithm are used that are some types of machine learning subparts algorithms of supervised and Unsupervised learning.
